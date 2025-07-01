@@ -2,9 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Book artOfComputerProgramming = new Book();
-        Book effectiveJava = new Book();
-        Book cleanCode = new Book();
+        Book artOfComputerProgramming = new Book(1);
+        Book effectiveJava = new Book(1);
+        Book cleanCode = new Book(1);
 
         artOfComputerProgramming.setNoOfCopies(100);
         effectiveJava.setNoOfCopies(50);
