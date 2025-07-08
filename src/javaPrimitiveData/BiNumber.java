@@ -37,4 +37,5 @@ public class BiNumber {
         this.number1 *= 2;
         this.number2 *= 2;
     }
+
 }
